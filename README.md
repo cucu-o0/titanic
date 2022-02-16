@@ -24,10 +24,8 @@ Selection of classification algorithms:
 
 Chances to survive:
 
-  **~80% accuracy**
-  
-  **~71% f1-score**
-  
-  **~82% ROC-AUC score**
+**~80% accuracy**<br/>
+**~71% f1-score**<br/>
+**~82% ROC-AUC score**
 
 The model is quite good in predicting the probability of survival of the passengers but there is still room for improvement.
